@@ -1,0 +1,29 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker14
+-projectPath
+/Users/warrenh/Desktop/ProtoGame/CJ10_proto_jam (1)
+-logFile
+Logs/AssetImportWorker14.log
+-srvPort
+49255
+Successfully changed project path to: /Users/warrenh/Desktop/ProtoGame/CJ10_proto_jam (1)
+/Users/warrenh/Desktop/ProtoGame/CJ10_proto_jam (1)
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 1298.77 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/warrenh/Desktop/ProtoGame/CJ10_proto_jam (1)/Assets
+GfxDevice: creating device client; threaded=0
+2021-01-28 16:24:47.763 Unity[14949:1329970] Cintiq 16 preferred device: Intel Iris Graphics (low power)
+2021-01-28 16:24:47.763 Unity[14949:1329970] Metal devices available: 1
+2021-01-28 16:24:47.763 Unity[14949:1329970] 0: Intel Iris Graphics (low power)
+2021-01-28 16:24:47.795 Unity[14949:1329970] Using device Intel Iris Graphics (low power)
+Initializing Metal device caps: Intel Iris Graphics
